@@ -1,0 +1,12 @@
+table, th, td {
+    border: 2px solid cornflowerblue;
+    border-collapse: collapse;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table tr:nth-last-child(even){
+    background-color: chartreuse;
+}
+body{
+    background-color: darkorchid;
+}
